@@ -2,6 +2,8 @@
 
 ## I'm BLAZE
 
+<p align="center"><a href="https://t.me/piroXpower?template=https://telegra.ph/file/0e8db290922e114ac3d95.jpg"> <img 
+
 
 
 ##[BLAZE-OP](t.me/piroXpower)
