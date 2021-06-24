@@ -3,7 +3,7 @@
 ## I'm BLAZE
 
 ### MY TELEGRAM👇👇
-<p align="center"><a template=https://telegram.me/piroXpower"> <img align="center" alt="Telegram" width="54px" src="https://telegra.ph/file/0e8db290922e114ac3d95.jpg" />
+<p align="center">href="https://telegram.me/piroXpower? <img align="center" alt="Telegram" width="54px" src="https://telegra.ph/file/0e8db290922e114ac3d95.jpg" />
 
   
 ### MY GITHUB STATS 👇👇
