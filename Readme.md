@@ -13,7 +13,8 @@
 
 ### MY TELEGRAM🏷️
 
-href="https://telegram.me?template=https://telegram.me/piroXpower"> [<img align="center" alt="telegram" width="52px" src="https://telegra.ph/file/0e8db290922e114ac3d95.jpg" />]
+
+<p align="center"><a href="https://telegram.me/piroXpower?template=https://telegram.me/piroXpower"> [<img align="center" alt="telegram" width="52px" src="https://telegra.ph/file/0e8db290922e114ac3d95.jpg" />]
 
 
 # See you soon💕
