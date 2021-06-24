@@ -2,18 +2,19 @@
 
 ## I'm BLAZE
 
-### MY TELEGRAM👇👇
-<p align="center">href="https://telegram.me/piroXpower?template=https://t.me/piroXpower<img align="center" alt="Telegram" width="54px" src="https://telegra.ph/file/0e8db290922e114ac3d95.jpg" />
 
   
-### MY GITHUB STATS 👇👇
-
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=BOT-SUPPORT&show_icons=true&theme=cobalt&count_private=true)](https://github.com/BOT-SUPPORT)
 
 
 [![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BOT-SUPPORT&layout=compact&theme=cobalt)](https://github.com/BOT-SUPPORT)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBOT-SUPPORT&count_bg=%2379C83D&title_bg=%230084FF&icon=arduino.svg&icon_color=%2300FF20&title=Stalks&edge_flat=false)](https://hits.seeyoufarm.com)
+
+### MY TELEGRAM🏷️
+
+href="https://telegram.me?template=https://telegram.me/piroXpower"> [<img align="center" alt="telegram" width="52px" src="https://telegra.ph/file/0e8db290922e114ac3d95.jpg" />]
+
 
 # See you soon💕
 <!--
